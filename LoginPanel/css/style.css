@@ -1,0 +1,42 @@
+.admin-login-btn {
+	background: #ef6d28 !important;
+	border-color: #ef6d28 !important;
+	color: #fff;
+}
+
+.admin-login-copyrights a {
+	color: #ef6d28;
+}
+
+.admin-login-form {
+	background: #ffffff;
+	margin-top: 27%;
+	padding: 30px 30px 30px;
+	border-radius: 2px;
+	box-shadow: 0 2px 15px rgba(0, 0, 0, .3);
+}
+
+h3.admin-text {
+	font-weight: 400;
+	color: #000;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+a.sign-up-link {
+	color: #0505b9;
+	font-weight: 500;
+}
+
+label.datebirth {
+	display: flex;
+}
+
+.alert-danger {
+	
+	text-align: center;
+	font-weight: 500;
+}
+.text-success {
+text-align: center;
+}
